@@ -30,13 +30,13 @@ Rimea: Mario Saves Christmas Tileset(s), Snowy Mushroom Tileset(Mini SMB2U)
           Special Thanks
 ---------------------------------
 
-Nintendo: Original Game, A section of 1-2
+Nintendo: Original Game, A section of 1-2, Inspiration for a section in 1-2
 
 AboodXD: Miyamoto! Level Editor
 
 KillzXGaming: Switch-Toolbox
 
-mrbengtsson: Inspiration for some sections in 1-2
+mrbengtsson: Inspiration for a section in 1-2
 
 
 
