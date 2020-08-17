@@ -100,7 +100,7 @@ A: I learned how to use Miyamoto! via tutorials on the internet, but never found
 
 Q: I want to play this on CEMU(Wii U Emulator), How can I do that?
 
-A: I personally don't use CEMU so haven't tested Snowy U on it, But if you want to do it you should find tutorials on how to play NSMBU mods on CEMU.
+A: I personally don't use CEMU anymore so haven't tested Snowy U on it, But if you want to do it you should find tutorials on how to play NSMBU mods on CEMU.
 
 ----------------------------------
           Other Stuff
