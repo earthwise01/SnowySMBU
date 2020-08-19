@@ -57,9 +57,9 @@ Step 1: Create a folder named "games" inside the "wiiu" folder on your SD Card.
 
 Step 2: Copy your legal dump of NSMBU to the "games" folder you created.
 
-Step 3: Rename your dump(the one in the games folder) to "Snowy SUPER MARIO BROS. U [ARP#01]" with '#' being replaced with 'P' for PAL/EUR and 'E' for NTSC.
+Step 3: Rename your dump(the one in the games folder) to "Snowy SUPER MARIO BROS. U [ARPP01]".
 
-Step 4: Look inside your "Snowy SUPER MARIO BROS. U [ARP#01]" folder, you should see 'code', 'content' and 'meta' folders.
+Step 4: Look inside your "Snowy SUPER MARIO BROS. U [ARPP01]" folder, you should see 'code', 'content' and 'meta' folders.
 
 Step 6: Copy the content folder located alongside this readme.txt over the content folder on your SD Card.
 
