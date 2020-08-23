@@ -9,7 +9,9 @@ It contains:
 
 ------------------------------------------------------------------------------------------
 
-File Structure
+File Structure:
+
+
    content
    ------------------------------------
       Here is where stuff like the level files & music file goes
