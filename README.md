@@ -37,7 +37,7 @@ IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when lo
 
 ------------------------------------------------------------------
 
-Continue to [here](www.github.com/Kitty-Cats/SnowySMBU/blob/master/howToPlayHWU) for instructions on how to play Snowy SMBU.
+Continue to [here](howToPlayHWU) for instructions on how to play Snowy SMBU.
 
 --------------------------------------------------------------------
 
