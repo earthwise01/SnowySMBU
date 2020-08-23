@@ -35,6 +35,13 @@ Works on Wii U but not tested on Cemu. But when using SDCafiine on Wii U, the cu
 
 IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
 
+------------------------------------------------------------------
+
+Continue to [here](www.github.com/Kitty-Cats/SnowySMBU/blob/master/howToPlayHWU) for instructions on how to play Snowy SMBU.
+
+--------------------------------------------------------------------
+
+
 ---------------------------------
              Credits
 ---------------------------------
@@ -57,38 +64,6 @@ AboodXD: Miyamoto! Level Editor
 KillzXGaming: Switch-Toolbox
 
 mrbengtsson: Inspiration for a section in 1-2
-
-
-
-
----------------------------------
-          HOW TO PLAY
-            (Wii U)
----------------------------------
-Requirements:
-- Wii U
-- SD Card with Homebrew
-- A way to load Homebrew
-- Loadiine GX2
-- Your Legal Dump of NSMBU(with the 1.3 update files, not in WUP format)
-- Snowy SMBU
-
-Step 1: Create a folder named "games" inside the "wiiu" folder on your SD Card.
-
-Step 2: Copy your legal dump of NSMBU to the "games" folder you created.
-
-Step 3: Rename your dump(the one in the games folder) to "Snowy SUPER MARIO BROS. U [ARPP01]".
-
-Step 4: Look inside your "Snowy SUPER MARIO BROS. U [ARPP01]" folder, you should see 'code', 'content' and 'meta' folders.
-
-Step 6: Copy the content folder located alongside this readme.txt over the content folder on your SD Card.
-
-Step 7: Power on your Wii U and launch the Homebrew Launcher using your preferred method.
-
-Step 8: Load the 'Loadiine GX2' app and select 'Snowy SUPER MARIO BROS U', Launch the game and you should see the Snowy SMBU Logo instead of the NSMBU one.
-
-Step 9: Enjoy!
-
 
 ---------------------------------
               FAQ
