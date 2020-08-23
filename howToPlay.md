@@ -44,5 +44,5 @@ Step 9: Enjoy!
 
 -----------------------------------------------------
 
-[Go Back]().
+[Go Back](https://github.com/Kitty-Cats/SnowySMBU/).
 
