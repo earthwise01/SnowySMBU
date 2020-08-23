@@ -32,7 +32,7 @@ Works on Wii U but not tested on CEMU. But when using SDCafiine on Wii U, the cu
 
 ------------------------------------------------------------------
 
-Continue to [here](howToPlayHWU.md) for instructions on how to play Snowy SMBU.
+Continue to [here](howToPlay.md) for instructions on how to play Snowy SMBU.
 
 --------------------------------------------------------------------
 
