@@ -34,6 +34,9 @@ Works on Wii U but not tested on CEMU. But when using SDCafiine on Wii U, the cu
 
 Continue to [here](howToPlay.md) for instructions on how to play Snowy SMBU.
 
+
+Note: I am considering making an absolute beginner's guide for Snowy but as it takes so much time and effort I may not end up getting around to it, for now I would recommend that those who are new to Wii U hacking find a guide.(Youtube guides are not optimal as they can get outdated, but seeing as the Wii U flopped like it did I would be quite shocked if Nintendo released a new patch against homebrew exploits)
+
 --------------------------------------------------------------------
 
 IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
@@ -92,6 +95,12 @@ A: Not really, As making nothing but snow levels can be quite frustrating. Howev
 Q: I want to play this on CEMU(Wii U Emulator), How can I do that?
 
 A: I personally don't use CEMU anymore so haven't tested Snowy U on it, But if you want to do it you should find tutorials on how to play NSMBU mods on CEMU.
+
+------------------------------------------
+
+Q: Is this legal?
+
+A: As long as you use your game backup of NSMBU dumped from your Wii U, This is legal. No game roms are being distributed here.
 
 ----------------------------------
           Other Stuff
