@@ -28,19 +28,15 @@ File Structure:
    -------------------------------------
 --------------------------------------------------------
 
-
-Works on Wii U but not tested on Cemu. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
-
-
-
-IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
+Works on Wii U but not tested on CEMU. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
 
 ------------------------------------------------------------------
 
-Continue to [here](howToPlayHWU) for instructions on how to play Snowy SMBU.
+Continue to [here](howToPlayHWU.md) for instructions on how to play Snowy SMBU.
 
 --------------------------------------------------------------------
 
+IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
 
 ---------------------------------
              Credits
@@ -77,19 +73,19 @@ A: Load your disc/download from the Wii U Home Menu, Loadiine is only useful for
 
 Q: How did you make this? Can I make something similar?
 
-A: Yes! This was made primarily with the Miyamoto! Level Editor(https://github.com/aboood40091/Miyamoto) with stuff outside of the levels being possible with Switch Toolbox(https://github.com/KillzXGaming/Switch-Toolbox) and the injection of the music with Citric Composer(https://github.com/Gota7/Citric-Composer)
+A: Yes! This was made primarily with the [Miyamoto! Level Editor](https://github.com/aboood40091/Miyamoto) with stuff outside of the levels being possible with [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) and the injection of the music with [Citric Composer](https://github.com/Gota7/Citric-Composer)
 
 ----------------------------------------
-
-Q: Do you have any plans to expand Snowy U?
-
-A: Not really, As making nothing but snow levels can be quite frustrating. However I might end up making another NSMBU hack/mod at some point.
-
------------------------------------------
 
 Q: How might I learn how to use the tools that you made this with?
 
 A: I learned how to use Miyamoto! via tutorials on the internet, but never found one for Switch Toolbox/Citric Composer, It hopefully shouldn't be too hard to figure out though.
+
+-----------------------------------------
+
+Q: Do you have any plans to expand Snowy U?
+
+A: Not really, As making nothing but snow levels can be quite frustrating. However I might end up making another NSMBU hack/mod at some point.
 
 ------------------------------------------
 
@@ -101,7 +97,7 @@ A: I personally don't use CEMU anymore so haven't tested Snowy U on it, But if y
           Other Stuff
 ----------------------------------
 
-There's a little bonus for those who want to do more copy-pasting...
+UNUSED LEVELS: In a folder named 'Unused' there are some level files which are unused levels for Snowy U.
 
 
 8-Bit Toads do NOT hint at star coins.
