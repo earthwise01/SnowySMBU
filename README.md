@@ -9,6 +9,24 @@ It contains:
 
 ------------------------------------------------------------------------------------------
 
+File Structure
+   content
+   ------------------------------------
+      Here is where stuff like the level files & music file goes
+   -------------------------------------
+   
+   Tilesets for Making Levels
+   -------------------------------------
+      Here is where assorted tilesets used in the making of Snowy U are
+   -------------------------------------
+   
+   README.md
+   -------------------------------------
+      The file you are reading
+   -------------------------------------
+--------------------------------------------------------
+
+
 Works on Wii U but not tested on Cemu. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
 
 
