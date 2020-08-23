@@ -39,6 +39,9 @@ Note: I am considering making an absolute beginner's guide for Snowy but as it t
 
 --------------------------------------------------------------------
 
+IMPORTANT: When Downloading from the green "Code" button and choosing to download zip, the bfsar file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/cafe_redpro_sound.bfsar)
+
+
 IMPORTANT: There is an issue where once you use the zoom out feature on the world map the game will lag for a few seconds when either walking up to & entering the castle or when walking to & from the secret level, because of this I would recommend to not use the zoom out feature. When playing with a Wii Remote/Wii U Pro Controller this will always happen due to the gamepad screen automaticly zooming out.
 
 
