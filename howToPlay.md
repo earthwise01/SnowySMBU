@@ -8,7 +8,7 @@
 Requirements:
 - An internet connection
 
-Step 1: Decide if you want the latest changes or the latest stable release (I recommend the latest changes)
+Step 1: Decide if you want the latest changes or the latest stable release (I recommend the stable release)
 
 Latest Changes Download: https://github.com/Kitty-Cats/SnowySMBU/archive/master.zip
 
