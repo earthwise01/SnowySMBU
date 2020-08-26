@@ -28,16 +28,21 @@ File Structure:
    -------------------------------------
 --------------------------------------------------------
 
-Works on Wii U but not tested on CEMU. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
+Works on Wii U & CEMU. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
 
 ------------------------------------------------------------------
 
 Continue to [here](howToPlay.md) for instructions on how to play Snowy SMBU.
 
 
-Note: I am considering making an absolute beginner's guide for Snowy but as it takes so much time and effort I may not end up getting around to it, for now I would recommend that those who are new to Wii U hacking find a guide.(Youtube guides are not optimal as they can get outdated, but seeing as the Wii U flopped like it did I would be quite shocked if Nintendo released a new patch against homebrew exploits)
+Note: I am considering making an absolute beginner's guide for Snowy but as it takes so much time and effort I may not end up getting around to it, for now I would recommend that those who are new to Wii U hacking find a guide.(Youtube guides are not optimal as they can get outdated, but seeing as the Wii U is discontinued I would be quite shocked if Nintendo released a new patch against homebrew exploits)
 
 --------------------------------------------------------------------
+
+# IMPORTANT
+
+For some reason, when we left the game on the title screen for 5+ minutes the Wii U hard crashed with a recognizable crash sound. For your Wii U's health please don't leave the game on the title screen for too long.
+
 
 IMPORTANT: When Downloading from the green "Code" button and choosing to download zip, the bfsar file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/cafe_redpro_sound.bfsar)
 
