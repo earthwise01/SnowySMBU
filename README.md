@@ -105,7 +105,7 @@ A: Not really, As making nothing but snow levels can be quite frustrating. Howev
 
 Q: I want to play this on CEMU(Wii U Emulator), How can I do that?
 
-A: I personally don't use CEMU anymore so haven't tested Snowy U on it, But if you want to do it you should find tutorials on how to play NSMBU mods on CEMU.
+A: I personally don't use CEMU anymore so I'm not heavily considering making a How to Play guide for CEMU, But if you want to do it you can just use tutorials on how to play NSMBU mods on CEMU.
 
 ------------------------------------------
 
