@@ -40,7 +40,7 @@ Note: I am considering making an absolute beginner's guide for Snowy but as it t
 --------------------------------------------------------------------
 # IMPORTANT
 
- I had placed the bfsar file in the wrong folder, the issue is being worked on as of now. It should be fixed in 10+ minutes. in the mean time, When downloading the release I would recommend you move the downloaded bfsar to a new folder named “sound” inside the “CAFE” folder it’s in. The v1.1 release is not ready yet, so keep using the 1.0 release until it's fixed. The issue has been fixed in the repository but not yet the release. 
+ I had placed the bfsar file in the wrong folder, the issue is being worked on as of now. It should be fixed in 20+ minutes. in the mean time, When downloading the release I would recommend you move the downloaded bfsar to a new folder named “sound” inside the “CAFE” folder it’s in. The v1.1 release is not ready yet, so keep using the 1.0 release until it's fixed. The issue has been fixed in the repository but not yet the release. 
 
 
 
