@@ -15,7 +15,7 @@ Latest Changes Download: https://github.com/Kitty-Cats/SnowySMBU/archive/master.
 IMPORTANT: When Downloading the latest changes the bfsar file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/cafe_redpro_sound.bfsar)
 
 
-Stable Release Download: https://github.com/Kitty-Cats/SnowySMBU/releases (download the SSMBU-HWU.zip file)
+Stable Release Download: https://github.com/Kitty-Cats/SnowySMBU/releases (download the SnowyU-Release1.zip file)
 
 ---------------------------------
           HOW TO PLAY
