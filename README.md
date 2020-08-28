@@ -38,19 +38,13 @@ Continue to [here](howToPlay.md) for instructions on how to play Snowy SMBU.
 Note: I am considering making an absolute beginner's guide for Snowy but as it takes so much time and effort I may not end up getting around to it, for now I would recommend that those who are new to Wii U hacking find a guide.(Youtube guides are not optimal as they can get outdated, but seeing as the Wii U is discontinued I would be quite shocked if Nintendo released a new patch against homebrew exploits)
 
 --------------------------------------------------------------------
-# IMPORTANT
-
- I had placed the bfsar file in the wrong folder, the issue is being worked on as of now. It should be fixed in 20+ minutes. in the mean time, When downloading the release I would recommend you move the downloaded bfsar to a new folder named “sound” inside the “CAFE” folder it’s in. The v1.1 release is not ready yet, so keep using the 1.0 release until it's fixed. The issue has been fixed in the repository but not yet the release. 
-
-
-
 
 # IMPORTANT
 
 For some reason, when we left the game on the title screen for 5+ minutes the Wii U hard crashed with a recognizable crash sound. For your Wii U's health please don't leave the game on the title screen for too long.
 
 
-IMPORTANT: When Downloading from the green "Code" button and choosing to download zip, the bfsar file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/cafe_redpro_sound.bfsar)
+IMPORTANT: When Downloading from the green "Code" button and choosing to download zip, the bfsar file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/sound/cafe_redpro_sound.bfsar)
 
 
 IMPORTANT: There is an issue where once you use the zoom out feature on the world map the game will lag for a few seconds when either walking up to & entering the castle or when walking to & from the secret level, because of this I would recommend to not use the zoom out feature. When playing with a Wii Remote/Wii U Pro Controller this will always happen due to the gamepad screen automaticly zooming out.
