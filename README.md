@@ -56,6 +56,7 @@ IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when lo
 
 
 IMPORTANT: For those making a playthrough on youtube, **DON'T USE SDCAFIINE**, Use Loadiine GX2 instead(there's even a guide here on how to setup Snowy on it...). The custom music won't load with SDCafiine and your playthrough just won't be as professional(I would also recommend not using SDCafiine even when not making a youtube playthrough). However, for everyone who is lazy I have made a version of Snowy U without custom music. It's still not recommended as it's not how Snowy is intended to be played.
+
 ---------------------------------
              Credits
 ---------------------------------
