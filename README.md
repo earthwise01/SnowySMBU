@@ -30,7 +30,7 @@ File Structure:
    -------------------------------------
 --------------------------------------------------------
 
-Works on Wii U & CEMU. But when using SDCafiine on Wii U, the custom music won't load(See below on how to play with Loadiine).
+Works on Wii U & CEMU. You'll have to use the no custom music version of Snowy U to use it with SDCafiine. If you want to play Snowy U the way it's meant to be played you can use Loadiine GX2. See Below on how to play with both SDCafiine & Loadiine GX2
 
 ------------------------------------------------------------------
 
