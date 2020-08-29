@@ -16,10 +16,12 @@ Latest Changes: [Download](https://github.com/Kitty-Cats/SnowySMBU/archive/maste
 
 Stable Release(custom music): [Download](https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1/SnowyURelease2.zip)
 
-Stable Release(regular nsmbu music)(not ready yet): [Download](https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1-ncm/SnowyU-noCustomMusic.zip)
+Stable Release(regular nsmbu music): [Download](https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1-ncm/SnowyU-noCustomMusic.zip)
 
 
 IMPORTANT: When Downloading the latest changes the bfsar(music file) file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/sound/cafe_redpro_sound.bfsar)
+
+*No custom music is for lazy people, If you already have the NSMBU rom dumped from your Wii U please don't do it.*
 
 ---------------------------------
           HOW TO PLAY
