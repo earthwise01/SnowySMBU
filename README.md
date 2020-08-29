@@ -115,7 +115,7 @@ A: I personally don't use CEMU anymore so I'm not heavily considering making a H
 
 Q: Is this legal?
 
-A: As long as you use your game backup of NSMBU dumped from your Wii U, This is legal. No game roms are being distributed here.
+A: As long as you use your game backup of NSMBU dumped from your Wii U or you use the SDCafiine version of Snowy, This is legal. No game roms are being distributed here.
 
 ----------------------------------
           Other Stuff
