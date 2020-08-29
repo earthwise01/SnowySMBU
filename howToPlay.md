@@ -12,11 +12,11 @@ Step 1: Decide if you want custom music or not(No custom music is just for lazy 
 
 Step 2: Decide if you want the latest changes or the latest stable release (I recommend the stable release)(latest changes is not an option when choosing not to have custom music)
 
-Latest Changes Download: https://github.com/Kitty-Cats/SnowySMBU/archive/master.zip
+Latest Changes: [Download](https://github.com/Kitty-Cats/SnowySMBU/archive/master.zip)
 
-Stable Release(custom music) Download: https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1/SnowyURelease2.zip
+Stable Release(custom music): [Download](https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1/SnowyURelease2.zip)
 
-Stable Release(regular nsmbu music) Download: https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1.c/SnowyURelease2.zip
+Stable Release(regular nsmbu music)(not ready yet): [Download](https://github.com/Kitty-Cats/SnowySMBU/releases/download/v1.1.ncm/SnowyU-noCustomMusic.zip)
 
 
 IMPORTANT: When Downloading the latest changes the bfsar(music file) file will lose most of it's data and become invalid. when downloading from there MAKE SURE TO REPLACE THE DOWNLOADED BFSAR WITH ONE DOWNLOADED FROM HERE: [bfsar](https://github.com/Kitty-Cats/SnowySMBU/raw/master/content/CAFE/sound/cafe_redpro_sound.bfsar)
@@ -24,6 +24,7 @@ IMPORTANT: When Downloading the latest changes the bfsar(music file) file will l
 ---------------------------------
           HOW TO PLAY
   (Hacked Wii U|Custom Music)
+  
 ---------------------------------
 
 Requirements:
@@ -51,11 +52,12 @@ Step 9: Enjoy!
 
 -----------------------------------------------------
 
-[Go Back](https://github.com/Kitty-Cats/SnowySMBU/).
+[Go Back](https://github.com/Kitty-Cats/SnowySMBU/)
 
 ---------------------------------
           HOW TO PLAY
   (Hacked Wii U|Regular Music)
+  
 ---------------------------------
 
 Requirements:
@@ -95,3 +97,20 @@ Step 10: You should see the game load as normal, but instead of the NSMBU logo y
 
 Step 11: Enjoy!
 
+-----------------------------
+**Troubleshooting**
+
+I followed the instructions correctly, but the game loaded into the regular nsmbu?
+*Try out a different title id for the folder where you put the content folder*
+
+Why is there volcano music in 1-1?
+*You downloaded the Loadiine version of Snowy U but loaded it via SDCafiine, try using "Stable Release(regular nsmbu music)"(found at the top of the page)*
+
+
+If this isn't helping you, try leaving a comment on the release trailer https://youtu.be/BA3mn24w5Sw
+
+-----------------------------
+
+[Go Back](https://github.com/Kitty-Cats/SnowySMBU/)
+
+-----------------------------
