@@ -55,7 +55,7 @@ IMPORTANT: There is an issue where once you use the zoom out feature on the worl
 IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
 
 
-IMPORTANT: For those making a playthrough on youtube, **DON'T USE SDCAFIINE**, Use Loadiine GX2 instead(there's even a guide here on how to setup Snowy on it...). The custom music won't load with SDCafiine and your playthrough just won't be as professional(I would also recommend not using SDCafiine even when not making a youtube playthrough). However, for everyone who is lazy I have made a version of Snowy U without custom music. It's still not recommended as it's not how Snowy is intended to be played.
+IMPORTANT: For those making a playthrough on youtube, **DON'T USE SDCAFIINE**, Use Loadiine GX2 instead(there's even a guide here on how to setup Snowy on it...). The custom music won't load with SDCafiine and your playthrough just won't be as professional(I would also recommend not using SDCafiine even when not making a youtube playthrough). However, for everyone who is lazy I have made a version of Snowy U without custom music/for SDCafiine. It's still not recommended as it's not how Snowy is intended to be played.
 
 ---------------------------------
              Credits
