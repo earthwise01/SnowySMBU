@@ -52,6 +52,20 @@ Step 8: Load the 'Loadiine GX2' app and select 'Snowy SUPER MARIO BROS U', Launc
 
 Step 9: Enjoy!
 
+-----------------------------
+**Troubleshooting**
+
+The game crashed after trying to go to the file select menu?
+*Use [dumpling](https://gbatemp.net/threads/release-dumpling.562741) to dump the update data(**MAKE SURE YOU CHOOSE TO ONLY DUMP THE UPDATE DATA**), then repeat step 6 but instead copy the 'code', 'content' & 'meta' folders you dumped with dumpling. Then repeat step 6 as normal.*
+
+Why is there volcano music in 1-1?
+*You downloaded the 1.0 version of Snowy U. Redownload the latest custom music version of Snowy U(Quick link at the top of the page)
+
+
+If this isn't helping you, check the 'Important' section or make a github account if you haven't already and create an issue on this repository.
+
+-----------------------------
+
 -----------------------------------------------------
 
 [Go Back](https://github.com/Kitty-Cats/SnowySMBU/)
@@ -102,14 +116,14 @@ Step 11: Enjoy!
 -----------------------------
 **Troubleshooting**
 
-I followed the instructions correctly, but the game loaded into the regular nsmbu?
+I followed the instructions correctly, but the game loaded into the regular NSMBU?
 *Try out a different title id for the folder where you put the content folder*
 
 Why is there volcano music in 1-1?
 *You downloaded the Loadiine version of Snowy U but loaded it via SDCafiine, try using "Stable Release(regular nsmbu music)"(found at the top of the page)*
 
 
-If this isn't helping you, try leaving a comment on the release trailer https://youtu.be/BA3mn24w5Sw
+If this isn't helping you, check the 'Important' section or make a github account if you haven't already and create an issue on this repository.
 
 -----------------------------
 
