@@ -1,6 +1,7 @@
 # Snowy Super Mario Bros. U
 
-(please read through the "important" section before doing anything)
+**PLEASE read through this Readme/the How-To-Play guide before doing ANYTHING**
+
 
 Snowy Super Mario Bros. U is a 1 world hack/mod for NSMBU
 
@@ -52,11 +53,13 @@ IMPORTANT: When Downloading from the green "Code" button and choosing to downloa
 IMPORTANT: There is an issue where once you use the zoom out feature on the world map the game will lag for a few seconds when either walking up to & entering the castle or when walking to & from the secret level, because of this I would recommend to not use the zoom out feature. When playing with a Wii Remote/Wii U Pro Controller this will always happen due to the gamepad screen automaticly zooming out.
 
 
-IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only). If the game STILL crashes(for whatever reason) leave a comment on the release trailer and I'll try to help you.
+IMPORTANT: If the game crashes after pressing 'A' on the title screen(or when loading 1-tower) you are most likely using an old version of the game, if so please make sure it says 1.3 in the bottom right corner of the title screen. If not please dump the update files for the game with ddd or Dumpling(ddd dumps the update files combined with the game, whilst Dumpling dumps them separately), then merge with your dump(Dumpling only).
 
 
 IMPORTANT: For those making a playthrough on youtube, **DON'T USE SDCAFIINE**, Use Loadiine GX2 instead(there's even a guide here on how to setup Snowy on it...). The custom music won't load with SDCafiine and your playthrough just won't be as professional(I would also recommend not using SDCafiine even when not making a youtube playthrough). However, for everyone who is lazy I have made a version of Snowy U without custom music/for SDCafiine. It's still not recommended as it's not how Snowy is intended to be played.
 
+
+**If you're having trouble setting ANYTHING up, please check through all the 'IMPORTANT' sections and the FAQ + Troubleshooting sections(Troubleshooting is in how to play)**
 ---------------------------------
              Credits
 ---------------------------------
